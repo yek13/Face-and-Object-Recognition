@@ -10,7 +10,7 @@ For object recognition, you must run the objectdetection.py file.
 
 You need to use PyCharm to run the project.
 
-Some libraries must be installed for the project to work. You can download these libraries from the command line. You can also download it from PyCharm by clicking File> Settings> Project: ...> Project Interpreter (the method I use).
+Some libraries must be installed for the project to work. You can download these libraries from the command line. You can also download it from PyCharm by clicking File> Settings> Project: ...> Project Interpreter (I used the method).
 
 Libraries used (Required libraries):
 
