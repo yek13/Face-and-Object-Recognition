@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25a4b178-a779-4f20-be68-ded992a17969" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Face/FaceRecognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/Face/FaceRecognition.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/YuzveNesneTanima$object_detection_tutorial___video.coverage" NAME="object_detection_tutorial - video Coverage Results" MODIFIED="1556825090652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object_detection" />
+    <SUITE FILE_PATH="coverage/YuzveNesneTanima$object_detection_tutorial.coverage" NAME="object_detection_tutorial Coverage Results" MODIFIED="1556402030393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object_detection" />
+    <SUITE FILE_PATH="coverage/YuzveNesneTanima$objectdetection.coverage" NAME="objectdetection Coverage Results" MODIFIED="1559137346075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object_detection" />
+    <SUITE FILE_PATH="coverage/YuzveNesneTanima$faces_train__1_.coverage" NAME="faces-train (1) Coverage Results" MODIFIED="1556109745667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Face" />
+    <SUITE FILE_PATH="coverage/YuzveNesneTanima$object_detection_tutorial___webcam.coverage" NAME="object_detection_tutorial - webcam Coverage Results" MODIFIED="1556824925736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object_detection" />
+    <SUITE FILE_PATH="coverage/YuzveNesneTanima$faces_train.coverage" NAME="faces-train Coverage Results" MODIFIED="1557785456927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Face" />
+    <SUITE FILE_PATH="coverage/YuzveNesneTanima$objectandface.coverage" NAME="objectandface Coverage Results" MODIFIED="1557788822430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/YuzveNesneTanima$FaceRecognation__2_.coverage" NAME="FaceRecognation (2) Coverage Results" MODIFIED="1556109935201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Face" />
+    <SUITE FILE_PATH="coverage/YuzveNesneTanima$faceandobject.coverage" NAME="faceandobject Coverage Results" MODIFIED="1558130942031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/YuzveNesneTanima$ffmpeg.coverage" NAME="ffmpeg Coverage Results" MODIFIED="1556459816097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/YuzveNesneTanima/Lib/site-packages/imageio/plugins" />
+    <SUITE FILE_PATH="coverage/YuzveNesneTanima$FaceRecognation__1_.coverage" NAME="FaceRecognation (1) Coverage Results" MODIFIED="1553886169318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaceRecognation" />
+    <SUITE FILE_PATH="coverage/YuzveNesneTanima$FaceRecognation.coverage" NAME="FaceRecognation Coverage Results" MODIFIED="1558115967445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Face" />
+    <SUITE FILE_PATH="coverage/YuzveNesneTanima$objectmain.coverage" NAME="objectmain Coverage Results" MODIFIED="1556483755725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object_detection" />
+    <SUITE FILE_PATH="coverage/YuzveNesneTanima$object_detection_tutorial__picture.coverage" NAME="object_detection_tutorial- picture Coverage Results" MODIFIED="1557777211965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object_detection" />
+    <SUITE FILE_PATH="coverage/YuzveNesneTanima$object.coverage" NAME="object Coverage Results" MODIFIED="1556670128570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object_detection" />
+    <SUITE FILE_PATH="coverage/YuzveNesneTanima$FaceRecognition.coverage" NAME="FaceRecognition Coverage Results" MODIFIED="1559137208998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Face" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/object_detection/objectdetection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2566">
+              <caret line="296" column="51" selection-start-line="296" selection-start-column="51" selection-end-line="296" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Face/FaceRecognition.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="159" selection-start-line="159" selection-end-line="159" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PhotoImage</find>
+      <find>faces</find>
+      <find>__file__</find>
+      <find>file</find>
+      <find>frame</find>
+      <find>image</find>
+      <find>open</find>
+      <find>Image</find>
+      <find>IMAGE_SIZE</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FaceRecognation.py" />
+        <option value="$PROJECT_DIR$/faces-train.py" />
+        <option value="$PROJECT_DIR$/FaceRecognation/FaceRecognation.py" />
+        <option value="$PROJECT_DIR$/Face/faces-train.py" />
+        <option value="$USER_HOME$/Downloads/object-detection-tutorial-video (2).py" />
+        <option value="$PROJECT_DIR$/object_detection/object_detection_tutorial.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa13780.1860/object_detection_webcam.py" />
+        <option value="$PROJECT_DIR$/object_detection/objectmain.py" />
+        <option value="$PROJECT_DIR$/object_detection/object.py" />
+        <option value="$USER_HOME$/Downloads/object-detection-tutorial-pic (2).py" />
+        <option value="$USER_HOME$/Downloads/object-detection-tutorial-pic (3).py" />
+        <option value="$PROJECT_DIR$/object_detection/object_detection_tutorial - webcam.py" />
+        <option value="$PROJECT_DIR$/object_detection/object_detection_tutorial - video.py" />
+        <option value="$PROJECT_DIR$/object_detection/object_detection_tutorial- picture.py" />
+        <option value="$PROJECT_DIR$/objectandface.py" />
+        <option value="$PROJECT_DIR$/Face/FaceRecognation.py" />
+        <option value="$PROJECT_DIR$/faceandobject.py" />
+        <option value="$PROJECT_DIR$/object_detection/objectdetection.py" />
+        <option value="$PROJECT_DIR$/Face/FaceRecognition.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="YuzveNesneTanima" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YuzveNesneTanima" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YuzveNesneTanima" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YuzveNesneTanima" type="462c0819:PsiDirectoryNode" />
+              <item name="Face" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YuzveNesneTanima" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YuzveNesneTanima" type="462c0819:PsiDirectoryNode" />
+              <item name="Face" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YuzveNesneTanima" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YuzveNesneTanima" type="462c0819:PsiDirectoryNode" />
+              <item name="object_detection" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\YEK\PycharmProjects\YuzveNesneTanima\Face" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.objectdetection">
+    <configuration name="FaceRecognation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="YuzveNesneTanima" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Face" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\YEK\PycharmProjects\YuzveNesneTanima\Face\FaceRecognition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FaceRecognition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="YuzveNesneTanima" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Face" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Face/FaceRecognition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="faceandobject" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="YuzveNesneTanima" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/faceandobject.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="objectandface" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="YuzveNesneTanima" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/objectandface.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="objectdetection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="YuzveNesneTanima" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/object_detection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/object_detection/objectdetection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.objectdetection" />
+        <item itemvalue="Python.FaceRecognition" />
+        <item itemvalue="Python.faceandobject" />
+        <item itemvalue="Python.FaceRecognation" />
+        <item itemvalue="Python.objectandface" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25a4b178-a779-4f20-be68-ded992a17969" name="Default Changelist" comment="" />
+      <created>1553596668417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553596668417</updated>
+      <workItem from="1553596670702" duration="2430000" />
+      <workItem from="1553602074907" duration="2323000" />
+      <workItem from="1553622176957" duration="1739000" />
+      <workItem from="1553625542733" duration="4583000" />
+      <workItem from="1553799824506" duration="5246000" />
+      <workItem from="1553881691405" duration="1667000" />
+      <workItem from="1553886155602" duration="11241000" />
+      <workItem from="1554835156072" duration="473000" />
+      <workItem from="1554901022806" duration="518000" />
+      <workItem from="1556045649540" duration="66000" />
+      <workItem from="1556108691824" duration="333000" />
+      <workItem from="1556109211488" duration="1023000" />
+      <workItem from="1556112604559" duration="242000" />
+      <workItem from="1556139959093" duration="175000" />
+      <workItem from="1556221322135" duration="711000" />
+      <workItem from="1556397835245" duration="2510000" />
+      <workItem from="1556400982711" duration="1110000" />
+      <workItem from="1556456904008" duration="8545000" />
+      <workItem from="1556468933490" duration="2971000" />
+      <workItem from="1556483362961" duration="2401000" />
+      <workItem from="1556485851775" duration="55000" />
+      <workItem from="1556564926806" duration="2788000" />
+      <workItem from="1556571946647" duration="1810000" />
+      <workItem from="1556580634261" duration="32000" />
+      <workItem from="1556623697750" duration="2691000" />
+      <workItem from="1556662018823" duration="1642000" />
+      <workItem from="1556667629475" duration="1714000" />
+      <workItem from="1556669360618" duration="3199000" />
+      <workItem from="1556724372937" duration="175000" />
+      <workItem from="1556726754387" duration="422000" />
+      <workItem from="1556731241899" duration="54000" />
+      <workItem from="1556732120563" duration="102000" />
+      <workItem from="1556732545081" duration="80000" />
+      <workItem from="1556734924301" duration="481000" />
+      <workItem from="1556735485550" duration="149000" />
+      <workItem from="1556799470439" duration="272000" />
+      <workItem from="1556809153525" duration="485000" />
+      <workItem from="1556824914629" duration="256000" />
+      <workItem from="1556834855949" duration="89000" />
+      <workItem from="1556835807321" duration="732000" />
+      <workItem from="1556911403862" duration="75000" />
+      <workItem from="1556997753240" duration="103000" />
+      <workItem from="1556998021514" duration="83000" />
+      <workItem from="1557056369784" duration="69000" />
+      <workItem from="1557398043269" duration="1104000" />
+      <workItem from="1557773455179" duration="8523000" />
+      <workItem from="1557787784589" duration="2102000" />
+      <workItem from="1557790930599" duration="190000" />
+      <workItem from="1557844131914" duration="747000" />
+      <workItem from="1558115965324" duration="12730000" />
+      <workItem from="1558132858958" duration="229000" />
+      <workItem from="1558133111838" duration="205000" />
+      <workItem from="1558133972624" duration="296000" />
+      <workItem from="1558134552477" duration="130000" />
+      <workItem from="1558134860388" duration="508000" />
+      <workItem from="1558135395350" duration="52000" />
+      <workItem from="1558184834976" duration="30000" />
+      <workItem from="1558189170401" duration="93000" />
+      <workItem from="1558191316814" duration="5000" />
+      <workItem from="1558191335925" duration="122000" />
+      <workItem from="1558191489647" duration="23000" />
+      <workItem from="1558469989823" duration="605000" />
+      <workItem from="1558472377670" duration="150000" />
+      <workItem from="1558527070967" duration="25000" />
+      <workItem from="1558527124224" duration="6000" />
+      <workItem from="1558527859732" duration="57000" />
+      <workItem from="1558527961891" duration="598000" />
+      <workItem from="1558560107141" duration="404000" />
+      <workItem from="1558784364406" duration="272000" />
+      <workItem from="1558790255084" duration="637000" />
+      <workItem from="1558793467949" duration="410000" />
+      <workItem from="1558980962255" duration="3968000" />
+      <workItem from="1559051799176" duration="8878000" />
+      <workItem from="1559088255166" duration="386000" />
+      <workItem from="1559088969348" duration="1250000" />
+      <workItem from="1559137127167" duration="340000" />
+      <workItem from="1559288319081" duration="1000" />
+      <workItem from="1561972632466" duration="181000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="113122000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20735608" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32827735" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" weight="0.24918744" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934355" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50159913" side_tool="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32822758" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3192964" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32932165" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14658849" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32827735" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.25135428" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934355" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50159913" side_tool="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32827735" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32036248" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32932165" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Face/image[i].png" />
+    <entry file="file://$PROJECT_DIR$/Face/images/yek/WIN_20190330_14_06_18_Pro.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face/images/yek/3.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face/Sample2.avi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face/images/yek/WIN_20190330_14_06_22_Pro.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face/images/volkan-demirel/3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face/images/volkan-demirel/4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face/images/volkan-demirel/6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face/images/volkan-demirel/8.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face/images/yek/WIN_20190330_14_06_21_Pro.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face/images/yek/WIN_20190330_14_06_16_Pro.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face/images/yek/4.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/object-detection-tutorial-video (2).py" />
+    <entry file="file://$PROJECT_DIR$/object_detection/test_images/image2.jpg" />
+    <entry file="file://$PROJECT_DIR$/object_detection/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_detection/object_detection_tutorial.py" />
+    <entry file="file://$USER_HOME$/YuzveNesneTanima/Lib/site-packages/imageio/core/functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="142" selection-start-line="142" selection-end-line="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/YuzveNesneTanima/Lib/site-packages/imageio/plugins/ffmpeg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10846">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa13780.1860/object_detection_webcam.py" />
+    <entry file="file://$PROJECT_DIR$/object_detection/model_main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face/CustomBlinkCascade.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_detection/objectmain.py" />
+    <entry file="file://D:/Anaconda/Lib/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="1704" selection-start-line="1704" selection-end-line="1704" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_detection/test_images/image1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_detection/object.jpg" />
+    <entry file="file://$PROJECT_DIR$/object_detection/utils/visualization_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="33" lean-forward="true" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+          <folding>
+            <element signature="e#907#917#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/object-detection-tutorial-pic (2).py" />
+    <entry file="file://$USER_HOME$/Downloads/object-detection-tutorial-pic (3).py" />
+    <entry file="file://$PROJECT_DIR$/object_detection/CONTRIBUTING.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_detection/object_detection_tutorial - webcam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_detection/object_detection_tutorial - video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="60" column="30" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_detection/object.py" />
+    <entry file="file://$PROJECT_DIR$/object_detection/object.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_detection/object_detection_tutorial- picture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="739">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objectandface.py" />
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/YEK/PycharmProjects/YuzveNesneTanima">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hıerarchıc Group" zoom="1.0" x="816.0" y="322.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face/face.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face/Sample1.avi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample1.avi" />
+    <entry file="file://$PROJECT_DIR$/faceandobject.py" />
+    <entry file="file://$PROJECT_DIR$/object_detection/model_tpu_main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_detection/utils/test_utils.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_detection/object_detection_tutorial.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Face/faces-train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="58" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face/images/Richard-Madden/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face/images/Richard-Madden/3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face/images/Richard-Madden/4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face/images/Richard-Madden/5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_detection/objectdetection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2566">
+          <caret line="296" column="51" selection-start-line="296" selection-start-column="51" selection-end-line="296" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face/image.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face/FaceRecognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="159" selection-start-line="159" selection-end-line="159" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

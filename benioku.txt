@@ -1,0 +1,40 @@
+Proje python ile yazýlmýþ olup PyCharm kullanýlmýþtýr.
+
+object detection klasörü içerisindeki faster_rcnn_resnet101_coco_2018_01_28 klasörü boþtur. https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md bu linkden indirerek klasörü doldurabilirsiniz. Ya da istediðiniz modeli indirerek onuda kullanabilirsiniz.
+FaceRecognition.py dosyasý çalýþtýrýldýðý zaman yüz tanýma iþlemi formu çalýþmaktadýr. faces-train.py dosyasý ilw elde edilen verilerin eðitilmesi gerçekleþtirilmiþtir.
+Verileri kendinize göre güncellediðinizde faces-train.py dosyasýný bir kere çalýþtýrmanýz gerekmektedir.
+
+Nesne tanýma için objectdetection.py dosyasýný çalýþtýrmanýz gerekmektedir. 
+
+Projeyi çalýþtýrmak için PyCharm kullanmanýz gerekmektedir. 
+
+Projenin çalýþmasý için bazý kütüphanelerin kurulu olmasý gerekmektedir. Bu kütüphaneleri komut satýrýndan indirebilirsiniz. Ayrýca PyCharm'dan File>Settings>Project:...>Project Interpreter yolunu takip ederek + butonundan indirebilirsiniz(Benim kullandýðým yöntem).
+
+Kullanýlan kütüphaneler(Gerekli olan kütüphanler.):
+
+opencv-python
+numpy
+imageio
+imageio-ffmpeg
+tkinter(filedialog için)
+os
+sys
+pickle
+tensorflow
+matplotlib
+PIL
+Pillow
+math
+random
+setuptools
+pip
+tensorboard
+utils
+
+Dikkat edilmesi gereken noktalar: 
+
+Bazý kýsýmlarda kendi localim için adres verilmiþtir. Bu adresi kendinize göre güncelleyin. 
+
+YUNUS EMRE KILIÇ
+14545527-Ý.Ö
+
